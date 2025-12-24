@@ -24,7 +24,3 @@ InvertAI is a conversational AI platform designed for the hospitality industry. 
 
 ![Invert - Database Design](images/invert-database-design.png)
 
-# Author
-
-[Discord](https://discord.gg/TawJX4ue)
-[Email](mailto:worker.opentext@gmail.com)
